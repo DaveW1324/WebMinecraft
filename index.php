@@ -1,7 +1,6 @@
 index.php
 <html class="no-js" lang="sv-SE" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
     <meta charset="UTF-8">
-touch composer.json{}touch index.php<?php include_once("index.html"); ?>
     <title>Minecraft Offline</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
