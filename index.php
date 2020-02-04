@@ -1,4 +1,3 @@
-index.php
 <html class="no-js" lang="sv-SE" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
     <meta charset="UTF-8">
     <title>Minecraft Offline</title>
